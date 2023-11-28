@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="95 7 832 744" width="737px" height="737px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="121" height="20" x="110" y="344" style="fill:#007;stroke:black;"/>
+   <text width="121" height="20" x="115" y="358" style="fill:#fff;" font-family="Arial" font-size="16px"> admins</text>
+   <rect width="121" height="20" x="110" y="364" style="fill:#aea;stroke:black;"/>
+   <text width="121" height="20" x="115" y="378" style="fill:black;" font-family="Arial" font-size="16px">Admin_id</text>
+   <rect width="121" height="20" x="110" y="384" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="115" y="398" style="fill:black;" font-family="Arial" font-size="16px">Name</text>
+   <rect width="121" height="20" x="110" y="404" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="115" y="418" style="fill:black;" font-family="Arial" font-size="16px">Email</text>
+   <rect width="121" height="20" x="110" y="424" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="115" y="438" style="fill:black;" font-family="Arial" font-size="16px">Phone_No</text>
+   <rect width="121" height="20" x="110" y="444" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="115" y="458" style="fill:black;" font-family="Arial" font-size="16px">Password</text>
+   <rect width="121" height="20" x="335" y="549" style="fill:#007;stroke:black;"/>
+   <text width="121" height="20" x="340" y="563" style="fill:#fff;" font-family="Arial" font-size="16px"> colleges</text>
+   <rect width="121" height="20" x="335" y="569" style="fill:#aea;stroke:black;"/>
+   <text width="121" height="20" x="340" y="583" style="fill:black;" font-family="Arial" font-size="16px">college_code</text>
+   <rect width="121" height="20" x="335" y="589" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="340" y="603" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="121" height="20" x="335" y="609" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="340" y="623" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="121" height="20" x="335" y="629" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="340" y="643" style="fill:black;" font-family="Arial" font-size="16px">phone</text>
+   <rect width="121" height="20" x="335" y="649" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="340" y="663" style="fill:black;" font-family="Arial" font-size="16px">courses</text>
+   <rect width="121" height="20" x="335" y="669" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="340" y="683" style="fill:black;" font-family="Arial" font-size="16px">description</text>
+   <rect width="121" height="20" x="335" y="689" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="340" y="703" style="fill:black;" font-family="Arial" font-size="16px">Image_01</text>
+   <rect width="121" height="20" x="335" y="709" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="340" y="723" style="fill:black;" font-family="Arial" font-size="16px">user_added</text>
+   <rect width="121" height="20" x="299" y="280" style="fill:#007;stroke:black;"/>
+   <text width="121" height="20" x="304" y="294" style="fill:#fff;" font-family="Arial" font-size="16px"> location</text>
+   <rect width="121" height="20" x="299" y="300" style="fill:#aea;stroke:black;"/>
+   <text width="121" height="20" x="304" y="314" style="fill:black;" font-family="Arial" font-size="16px">college_code</text>
+   <rect width="121" height="20" x="299" y="320" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="304" y="334" style="fill:black;" font-family="Arial" font-size="16px">area</text>
+   <rect width="121" height="20" x="299" y="340" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="304" y="354" style="fill:black;" font-family="Arial" font-size="16px">city</text>
+   <rect width="121" height="20" x="299" y="360" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="304" y="374" style="fill:black;" font-family="Arial" font-size="16px">taluk</text>
+   <rect width="121" height="20" x="299" y="380" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="304" y="394" style="fill:black;" font-family="Arial" font-size="16px">district</text>
+   <rect width="121" height="20" x="223" y="22" style="fill:#007;stroke:black;"/>
+   <text width="121" height="20" x="228" y="36" style="fill:#fff;" font-family="Arial" font-size="16px"> requests</text>
+   <rect width="121" height="20" x="223" y="42" style="fill:#aea;stroke:black;"/>
+   <text width="121" height="20" x="228" y="56" style="fill:black;" font-family="Arial" font-size="16px">request_id</text>
+   <rect width="121" height="20" x="223" y="62" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="228" y="76" style="fill:black;" font-family="Arial" font-size="16px">college_code</text>
+   <rect width="121" height="20" x="223" y="82" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="228" y="96" style="fill:black;" font-family="Arial" font-size="16px">name</text>
+   <rect width="121" height="20" x="223" y="102" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="228" y="116" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="121" height="20" x="223" y="122" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="228" y="136" style="fill:black;" font-family="Arial" font-size="16px">phone</text>
+   <rect width="121" height="20" x="223" y="142" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="228" y="156" style="fill:black;" font-family="Arial" font-size="16px">courses</text>
+   <rect width="121" height="20" x="223" y="162" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="228" y="176" style="fill:black;" font-family="Arial" font-size="16px">description</text>
+   <rect width="121" height="20" x="223" y="182" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="228" y="196" style="fill:black;" font-family="Arial" font-size="16px">Image_01</text>
+   <rect width="121" height="20" x="223" y="202" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="228" y="216" style="fill:black;" font-family="Arial" font-size="16px">requested_by</text>
+   <rect width="121" height="20" x="696" y="316" style="fill:#007;stroke:black;"/>
+   <text width="121" height="20" x="701" y="330" style="fill:#fff;" font-family="Arial" font-size="16px"> request_location</text>
+   <rect width="121" height="20" x="696" y="336" style="fill:#aea;stroke:black;"/>
+   <text width="121" height="20" x="701" y="350" style="fill:black;" font-family="Arial" font-size="16px">request_id</text>
+   <rect width="121" height="20" x="696" y="356" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="701" y="370" style="fill:black;" font-family="Arial" font-size="16px">college_code</text>
+   <rect width="121" height="20" x="696" y="376" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="701" y="390" style="fill:black;" font-family="Arial" font-size="16px">area</text>
+   <rect width="121" height="20" x="696" y="396" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="701" y="410" style="fill:black;" font-family="Arial" font-size="16px">city</text>
+   <rect width="121" height="20" x="696" y="416" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="701" y="430" style="fill:black;" font-family="Arial" font-size="16px">taluk</text>
+   <rect width="121" height="20" x="696" y="436" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="701" y="450" style="fill:black;" font-family="Arial" font-size="16px">district</text>
+   <rect width="121" height="20" x="500" y="182" style="fill:#007;stroke:black;"/>
+   <text width="121" height="20" x="505" y="196" style="fill:#fff;" font-family="Arial" font-size="16px"> users</text>
+   <rect width="121" height="20" x="500" y="202" style="fill:#aea;stroke:black;"/>
+   <text width="121" height="20" x="505" y="216" style="fill:black;" font-family="Arial" font-size="16px">user_id</text>
+   <rect width="121" height="20" x="500" y="222" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="505" y="236" style="fill:black;" font-family="Arial" font-size="16px">Name</text>
+   <rect width="121" height="20" x="500" y="242" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="505" y="256" style="fill:black;" font-family="Arial" font-size="16px">Email</text>
+   <rect width="121" height="20" x="500" y="262" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="505" y="276" style="fill:black;" font-family="Arial" font-size="16px">Phone_No</text>
+   <rect width="121" height="20" x="500" y="282" style="fill:none;stroke:black;"/>
+   <text width="121" height="20" x="505" y="296" style="fill:black;" font-family="Arial" font-size="16px">Password</text>
+</svg>
